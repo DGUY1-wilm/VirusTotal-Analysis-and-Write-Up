@@ -35,7 +35,7 @@ This report analyzes a malware sample identified by its SHA256 hash using VirusT
 - Network activity:
   - TCP 176[.]65[.]139[.]206:3778 (C2 server, non-standard port)
   - api[.]snapcraft[.]io (185[.]125[.]188[.]58:443) is background traffic from the sandbox Ubuntu system and is not tied to the malware.
-- Screenshots: ![behavior 1](screenshots/behavior1.png) ![behavior 2](screenshots/behavior2.png)
+- Screenshots: ![behavior 1](screenshots/behavior 1.png) ![behavior 2](screenshots/behavior 2.png)
 
 ## Relationships (Relations tab)
 - Contacted IPs: 176[.]65[.]139[.]206 (C2)
